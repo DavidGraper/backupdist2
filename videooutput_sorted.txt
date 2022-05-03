@@ -1,0 +1,618 @@
+0	/home/dgraper/colossus_share0/videos
+583667967	/home/dgraper/colossus_share0/videos/256GB Drive II
+2782046198	/home/dgraper/colossus_share0/videos/256GB Drive II/DesignJet 500 Repair Videos
+396636335	/home/dgraper/colossus_share0/videos/256GB Drive II/Microcorruption
+13068248432	/home/dgraper/colossus_share0/videos/256GB Drive II/Python TKinter
+47101027292	/home/dgraper/colossus_share0/videos/256GB Drive II/Typewriter Show
+3686221902	/home/dgraper/colossus_share0/videos/256GB Drive II/Unsorted
+9525189533	/home/dgraper/colossus_share0/videos/265GB Drive
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Discs
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Discs/Hitlers.Children.2011.NTSC.DVD9.Film.Movement.-
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Discs/Hitlers.Children.2011.NTSC.DVD9.Film.Movement.-/Hitlers.Children.2011
+3040872448	/home/dgraper/colossus_share0/videos/265GB Drive/Discs/Hitlers.Children.2011.NTSC.DVD9.Film.Movement.-/Hitlers.Children.2011/VIDEO_TS
+540281207	/home/dgraper/colossus_share0/videos/265GB Drive/Fastest Patch (x64) process for Win7SP1
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721
+27260424	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop
+657002	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Adobe Acrobat
+749978985	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Adobe Acrobat/Adobe Acrobat
+2326528	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Adobe Acrobat/Adobe Acrobat/Transforms
+1177866	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Adobe Acrobat/Adobe Acrobat/VCRT_x64
+147314	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Adobe Acrobat/GB18030
+99462	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/AHK Scripts
+1124	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01
+626	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite
+3794	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/blog
+1364	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/blog/migrations
+1461	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/blog/migrations/__pycache__
+4832	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/blog/__pycache__
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/blog/static
+1316	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/blog/static/css
+389	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/blog/templates
+341	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/blog/templates/blog
+707	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/blog/templates/blog/post
+4708	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/mysite
+3932	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/mysite/__pycache__
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter02
+626	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter02/mysite
+7679	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter02/mysite/blog
+2959	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter02/mysite/blog/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter02/mysite/blog/static
+1316	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter02/mysite/blog/static/css
+389	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter02/mysite/blog/templates
+341	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter02/mysite/blog/templates/blog
+2503	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter02/mysite/blog/templates/blog/post
+4900	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter02/mysite/mysite
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03
+626	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03/mysite
+9396	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03/mysite/blog
+2959	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03/mysite/blog/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03/mysite/blog/static
+1316	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03/mysite/blog/static/css
+389	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03/mysite/blog/templates
+812	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03/mysite/blog/templates/blog
+3504	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03/mysite/blog/templates/blog/post
+757	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03/mysite/blog/templatetags
+5261	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03/mysite/mysite
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter04
+629	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter04/bookmarks
+6692	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter04/bookmarks/account
+843	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter04/bookmarks/account/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter04/bookmarks/account/static
+4515	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter04/bookmarks/account/static/css
+1273	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter04/bookmarks/account/templates
+1553	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter04/bookmarks/account/templates/account
+3509	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter04/bookmarks/account/templates/registration
+5285	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter04/bookmarks/bookmarks
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05
+629	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks
+6692	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/account
+843	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/account/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/account/static
+4516	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/account/static/css
+2014	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/account/templates
+2102	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/account/templates/account
+3509	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/account/templates/registration
+5405	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/bookmarks
+304	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/common
+6275	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/images
+1229	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/images/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/images/static
+1008	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/images/static/css
+2660	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/images/static/js
+285	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/images/templates
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/images/templates/images
+3556	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/images/templates/images/image
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06
+629	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks
+10132	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/account
+1885	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/account/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/account/static
+4516	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/account/static/css
+2034	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/account/templates
+2263	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/account/templates/account
+2346	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/account/templates/account/user
+3509	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/account/templates/registration
+2455	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/actions
+1258	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/actions/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/actions/templates
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/actions/templates/actions
+1158	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/actions/templates/actions/action
+5680	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/bookmarks
+304	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/common
+7974	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/images
+1625	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/images/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/images/static
+1008	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/images/static/css
+2660	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/images/static/js
+285	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/images/templates
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/images/templates/images
+3975	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/images/templates/images/image
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07
+626	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop
+4536	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/cart
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/cart/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/cart/templates
+1889	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/cart/templates/cart
+5011	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/myshop
+4004	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/orders
+1795	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/orders/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/orders/templates
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/orders/templates/orders
+825	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/orders/templates/orders/order
+3562	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/shop
+1839	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/shop/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/shop/static
+5134	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/shop/static/css
+6477	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/shop/static/img
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/shop/templates
+842	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/shop/templates/shop
+1821	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/shop/templates/shop/product
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08
+626	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop
+4536	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/cart
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/cart/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/cart/templates
+1889	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/cart/templates/cart
+5489	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/myshop
+6767	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/orders
+2185	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/orders/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/orders/templates
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/orders/templates/admin
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/orders/templates/admin/orders
+1893	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/orders/templates/admin/orders/order
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/orders/templates/orders
+1990	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/orders/templates/orders/order
+3400	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/payment
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/payment/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/payment/templates
+2733	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/payment/templates/payment
+3562	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/shop
+1841	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/shop/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/shop/static
+5134	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/shop/static/css
+6477	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/shop/static/img
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/shop/templates
+842	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/shop/templates/shop
+1821	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/shop/templates/shop/product
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin
+75697	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/css
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/css/vendor
+33895	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/css/vendor/select2
+269526	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/fonts
+14768	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/img
+2258	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/img/gis
+77962	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/js
+27150	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/js/admin
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/js/vendor
+369604	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/js/vendor/jquery
+245333	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/js/vendor/select2
+58218	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/js/vendor/select2/i18n
+192397	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/js/vendor/xregexp
+5134	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/css
+6477	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/img
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09
+626	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop
+5784	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/cart
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/cart/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/cart/templates
+3405	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/cart/templates/cart
+2110	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/coupons
+843	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/coupons/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/locale
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/locale/en
+3361	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/locale/en/LC_MESSAGES
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/locale/es
+5271	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/locale/es/LC_MESSAGES
+6283	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/myshop
+7899	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/locale
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/locale/en
+2199	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/locale/en/LC_MESSAGES
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/locale/es
+2732	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/locale/es/LC_MESSAGES
+3020	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/templates
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/templates/admin
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/templates/admin/orders
+1893	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/templates/admin/orders/order
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/templates/orders
+2536	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/templates/orders/order
+3464	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/payment
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/payment/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/payment/templates
+2733	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/payment/templates/payment
+6755	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/shop
+5222	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/shop/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/shop/static
+5134	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/shop/static/css
+6477	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/shop/static/img
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/shop/templates
+1629	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/shop/templates/shop
+2463	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/shop/templates/shop/product
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin
+75697	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/css
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/css/vendor
+33895	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/css/vendor/select2
+269526	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/fonts
+14768	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/img
+2258	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/img/gis
+77962	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/js
+27150	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/js/admin
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/js/vendor
+369604	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/js/vendor/jquery
+245333	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/js/vendor/select2
+58218	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/js/vendor/select2/i18n
+192397	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/js/vendor/xregexp
+5134	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/css
+6477	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/img
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10
+625	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa
+13237	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses
+455	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/fixtures
+6894	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/static
+4396	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/static/css
+893	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/templates
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/templates/courses
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/templates/courses/manage
+552	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/templates/courses/manage/content
+1753	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/templates/courses/manage/course
+3859	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/templates/courses/manage/module
+876	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/templates/registration
+190	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/templatetags
+4269	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/educa
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11
+625	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa
+15611	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses
+455	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/fixtures
+7441	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/static
+4396	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/static/css
+893	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/templates
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/templates/courses
+219	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/templates/courses/content
+2200	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/templates/courses/course
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/templates/courses/manage
+552	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/templates/courses/manage/content
+1753	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/templates/courses/manage/course
+3859	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/templates/courses/manage/module
+876	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/templates/registration
+190	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/templatetags
+5248	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/educa
+3520	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/students
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/students/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/students/templates
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/students/templates/students
+1560	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/students/templates/students/course
+362	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/students/templates/students/student
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12
+672	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/api_examples
+625	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa
+15611	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses
+4123	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/api
+455	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/fixtures
+7441	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/static
+4396	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/static/css
+893	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/templates
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/templates/courses
+219	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/templates/courses/content
+2200	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/templates/courses/course
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/templates/courses/manage
+552	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/templates/courses/manage/content
+1753	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/templates/courses/manage/course
+3859	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/templates/courses/manage/module
+876	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/templates/registration
+190	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/templatetags
+5473	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/educa
+3520	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/students
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/students/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/students/templates
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/students/templates/students
+1560	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/students/templates/students/course
+362	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/students/templates/students/student
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13
+625	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa
+2607	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/chat
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/chat/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/chat/templates
+1786	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/chat/templates/chat
+15611	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses
+4123	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/api
+455	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/fixtures
+7441	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/static
+4396	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/static/css
+893	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/templates
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/templates/courses
+219	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/templates/courses/content
+2200	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/templates/courses/course
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/templates/courses/manage
+552	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/templates/courses/manage/content
+1753	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/templates/courses/manage/course
+3859	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/templates/courses/manage/module
+876	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/templates/registration
+190	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/templatetags
+6098	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/educa
+3520	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/students
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/students/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/students/templates
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/students/templates/students
+1676	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/students/templates/students/course
+362	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/students/templates/students/student
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14
+625	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa
+2607	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/chat
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/chat/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/chat/templates
+1787	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/chat/templates/chat
+1388	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/config
+16529	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses
+4123	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/api
+455	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/fixtures
+7441	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/static
+4396	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/static/css
+893	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/templates
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/templates/courses
+219	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/templates/courses/content
+2200	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/templates/courses/course
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/templates/courses/manage
+552	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/templates/courses/manage/content
+1753	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/templates/courses/manage/course
+3859	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/templates/courses/manage/module
+876	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/templates/registration
+190	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/templatetags
+1840	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/educa
+4848	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/educa/settings
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/logs
+2790	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/ssl
+771	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin
+75697	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/css
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/css/vendor
+33895	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/css/vendor/select2
+269526	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/fonts
+14768	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/img
+2258	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/img/gis
+77962	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/js
+27150	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/js/admin
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/js/vendor
+369604	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/js/vendor/jquery
+245333	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/js/vendor/select2
+58218	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/js/vendor/select2/i18n
+192397	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/js/vendor/xregexp
+4396	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/css
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/rest_framework
+171859	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/css
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/docs
+9136	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/docs/css
+6888	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/docs/img
+314003	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/docs/js
+581158	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/fonts
+22997	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/img
+305641	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/js
+3520	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/students
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/students/management
+1391	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/students/management/commands
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/students/migrations
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/students/templates
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/students/templates/students
+1676	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/students/templates/students/course
+362	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/students/templates/students/student
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data
+8371722	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default
+749861	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/bookmarkbackups
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/browser-extension-data
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/browser-extension-data/fxmonitor@mozilla.org
+26061	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/browser-extension-data/uBlock0@raymondhill.net
+66	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/crashes
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/crashes/events
+214	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/datareporting
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/datareporting/archived
+546441	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/datareporting/archived/2019-03
+561752	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/datareporting/archived/2019-04
+2582699	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/extensions
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/features
+49869	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/features/{a2c8f515-2b68-4aed-bceb-c9eec82820af}
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/gmp
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/gmp-gmpopenh264
+972868	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/gmp-gmpopenh264/1.7.1
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/gmp-widevinecdm
+6334324	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/gmp-widevinecdm/4.10.1146.0
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/gmp/WINNT_x86_64-msvc
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/gmp/WINNT_x86_64-msvc/gmp-widevinecdm
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/gmp/WINNT_x86_64-msvc/gmp-widevinecdm/id
+82	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/gmp/WINNT_x86_64-msvc/gmp-widevinecdm/id/4010886666
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/minidumps
+1117196473	/home/dgraper/colossus_share0/videos/265GB Drive/Interesting Physics Videos
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Slate Training
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Slate Training/01 - Slate
+3573380	/home/dgraper/colossus_share0/videos/265GB Drive/Slate Training/01 - Slate/Documents
+54859346	/home/dgraper/colossus_share0/videos/265GB Drive/Slate Training/01 - Slate/Videos
+899912	/home/dgraper/colossus_share0/videos/265GB Drive/Slate Training/02 - PeopleSoft
+1920939	/home/dgraper/colossus_share0/videos/265GB Drive/Slate Training/03 - Graduate Admissions Materials
+1477865	/home/dgraper/colossus_share0/videos/265GB Drive/Slate Training/04 - Nolij
+179719	/home/dgraper/colossus_share0/videos/265GB Drive/Slate Training/05 - Policies and Procedures
+894464485	/home/dgraper/colossus_share0/videos/265GB Drive/Training materials
+7070537625	/home/dgraper/colossus_share0/videos/265GB Drive/Unsorted Videos
+7440494286	/home/dgraper/colossus_share0/videos/265GB Drive/Urban Archaeology
+323581324	/home/dgraper/colossus_share0/videos/265GB Drive/Using Process Monitor
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Videos
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Animation
+19045886	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Animation/Bugs Bunny Shorts
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Classic Commercials
+131825774	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Classic Commercials/Mayhem Videos
+232197265	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Classic Commercials/Spectrum Videos
+1704102	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Classic Commercials/Volkswagen
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer
+502505821	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/API
+62571701	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Backups
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Computer Science
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Computer Science/MIT - Missing CS Semester
+4053771817	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Computer Science/MIT - Missing CS Semester/MIT Missing CS Semester (2019)
+2988870002	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Computer Science/MIT - Missing CS Semester/MIT Missing CS Semester (2020)
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Django
+369426926	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Django/Django Authentication
+4471849911	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Django/Django Bootcamp
+1238550279	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Django/Try Django
+4995550727	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Django/Various Django Videos
+54744053	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Git
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking
+595569169	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/Certified Ethical Hacker
+233678552	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/Hacker Skills
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/Hacker Skills OSINT
+481797965	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/Linux for Hackers
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/Live Overflow
+2142557159	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/Live Overflow/LiveOverflow
+20554908	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/Live Overflow/Live Overflow - Short Topics
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/PwnFunction
+39396655	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/PwnFunction/Binary Exploitation
+16301576	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/Regex
+31428942	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/Reversing
+105297467	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/Viruses
+1092711586	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/HP T620 Plus Thin Client
+30623558	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Linux
+202200938	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Linux/systemd
+215440565	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/MS Access
+19461850	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/MS Outlook
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Networking
+299378640	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Networking/Home Networking
+42711765	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Networking/Home Networking/Segmenting the Home Network
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Networking/PFSense
+637143329	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Networking/PFSense/Full Course in one Video
+55444841	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Networking/Wolfgang on VPN
+52603400	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/NGINX
+57035472	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/PFSense
+94702521	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Privacy
+258427491	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Python
+174263114	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Raspberry Pi
+4695494857	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Raspberry Pi/Raspberry Pi and Networking
+854954980	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Raspberry Pi/Raspberry Pi - Null Byte
+2975494736	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Reportlab PDF Python
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Documentary
+2052587465	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Documentary/Dead Malls
+52786093083	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Documentary/Expedition Log Videos
+1622218717	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Documentary/History of Commodore Computers
+2052739321	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Documentary/Oversimplified History Series
+71091517289	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Documentary/Sal Expedition Videos
+23805946	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Documentary/Soviet Space Station
+449580558	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Documentary/Ways of Seeing - John Berger (1972)
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Instructional
+61306523	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Instructional/Konica Minolta Printer
+29376696	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Instructional/UAlbany
+214938971	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Instructional/Video Capture
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music
+6309732989	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Bach
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Bach/Netherlands Bach Society
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Bach/Netherlands Bach Society/Cantatas
+799268821	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Bach/Netherlands Bach Society/Cantatas/Broken
+12146479058	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Bach/Netherlands Bach Society/Cantatas/Works
+131393907	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Bach/Netherlands Bach Society/Musikalisches Opfer
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Bach/Netherlands Bach Society/Specials
+18819099	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Beastie Boys
+605150639	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Beethoven
+993300238	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Copland
+817787923	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Devo
+12897820	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Doc Boggs
+57120412	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Elton John
+35359554	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Emerson Lake and Palmer
+28379612	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Frank Zappa
+383563672	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Gentle Giant
+1075026476	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Hindemith
+132319235	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Isham Jones
+391272464	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Isham Jones/Isham Jones
+141506955	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Led Zeppelin
+1383233648	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Mozart
+4696758	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Nimrod Workman
+127849526	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Old Leatherstocking
+74417272	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Ozzy Osbourne
+148702094	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Pink Floyd
+94733252	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Portsmouth Sinfonia
+8700710	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Puccini
+10669215	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Ralph Stanley
+109728763	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Rammstein
+12260861	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Renaissance
+45380124	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Richard Harris
+23457644	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Russian
+9728060	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Saint-Saens
+252451607	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Scarlatti
+51969974	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Storm Large
+52074856	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Weezer
+965848907	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Weezer/Weezer - The Teal Album
+4610289	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Wendy Carlos
+1165073796	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Yes
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Non-Computer Technology
+255603521	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Non-Computer Technology/Moog
+187358431	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Non-Computer Technology/Software Defined Radio
+83730930	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Non-Computer Technology/Water Filter
+4976955200	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/NYS Senate
+6196001443	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Perfumes
+4655000517	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Perfumes/2020 Experimental Scent Summit
+241354743	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/PFSense
+0	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Short Subjects
+9494419	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Short Subjects/The Good Fight
+46956224	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Short Subjects/V for Vendetta Clips
+573593304	/home/dgraper/colossus_share0/videos/265GB Drive/VPN and SSH
+809267255	/home/dgraper/colossus_share0/videos/265GB Drive/Wireshark
+0	/home/dgraper/colossus_share0/videos/Computer
+502505821	/home/dgraper/colossus_share0/videos/Computer/APIs
+0	/home/dgraper/colossus_share0/videos/Computer/AutoHotkey
+952878927	/home/dgraper/colossus_share0/videos/Computer/AutoHotkey/Autohotkey
+3622436690	/home/dgraper/colossus_share0/videos/Computer/AutoHotkey/AutoHotkey Short Talks
+432008101	/home/dgraper/colossus_share0/videos/Computer/AutoHotkey/Automate Windows programs with AutoHotkey
+53890155	/home/dgraper/colossus_share0/videos/Computer/C#
+0	/home/dgraper/colossus_share0/videos/Computer/Computer Science
+4682005888	/home/dgraper/colossus_share0/videos/Computer/Computer Science/MIT - Missing Semester 2019
+3661459931	/home/dgraper/colossus_share0/videos/Computer/Computer Science/MIT - The Missing Semester 2020
+1685814556	/home/dgraper/colossus_share0/videos/Computer/Django Misc
+18432	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials
+851815528	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django
+27430088	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django and Apache
+369426926	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django Authentication
+4471849911	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django Bootcamp
+445610006	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django - Coding for Entrepreneurs
+951205913	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django - Corey
+951205913	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django - Corey Schaefer
+130793996	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django Crash Course - Traversy Media
+1241785394	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django - Dennis Ivy
+7640009911	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django Miscellaneous
+363111595	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django NGINX and UWSGI - Tony Teaches Tech
+2199084999	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django on Raspberry Pi
+2402032616	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django - Pretty Printed
+507540580	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django - Red Eyed Coder Club
+1238550279	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django/Try Django
+645250426	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django Tutorial - Full-Featured Web App
+4303356971	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django Tutorials
+82787210	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django - Webserver Considerations
+584774083	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django - Yogi Coder
+649435751	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Try DJANGO
+186756039	/home/dgraper/colossus_share0/videos/Computer/Drupal
+359812669	/home/dgraper/colossus_share0/videos/Computer/Git
+0	/home/dgraper/colossus_share0/videos/Computer/Hacking and Reversing
+529786724	/home/dgraper/colossus_share0/videos/Computer/Hacking and Reversing/Miscellaneous
+61395142	/home/dgraper/colossus_share0/videos/Computer/Hacking and Reversing/Reversing
+809267255	/home/dgraper/colossus_share0/videos/Computer/Hacking and Reversing/Wireshark
+13629398594	/home/dgraper/colossus_share0/videos/Computer/Intro Intel x86
+1209639269	/home/dgraper/colossus_share0/videos/Computer/Linux
+17927825	/home/dgraper/colossus_share0/videos/Computer/NGINX
+57829992	/home/dgraper/colossus_share0/videos/Computer/PostgreSQL
+297805911	/home/dgraper/colossus_share0/videos/Computer/Python
+91484385	/home/dgraper/colossus_share0/videos/Computer/Raspberry Pi
+41140264	/home/dgraper/colossus_share0/videos/Computer/Raspberry Pi/Raspberry Pi Camera
+854954980	/home/dgraper/colossus_share0/videos/Computer/Raspberry Pi/Raspberry Pi - Null Byte
+95566655	/home/dgraper/colossus_share0/videos/Computer/Raspberry Pi/Raspberry Pi VPN
+573593304	/home/dgraper/colossus_share0/videos/Computer/Raspberry Pi/VPN and SSH
+2975494736	/home/dgraper/colossus_share0/videos/Computer/Reportlab
+0	/home/dgraper/colossus_share0/videos/Computer/Using Process Monitor
+204244968	/home/dgraper/colossus_share0/videos/Computer/VIM
+1103668060	/home/dgraper/colossus_share0/videos/Documentary
+375875957	/home/dgraper/colossus_share0/videos/Documentary/20-20 2018.03.09 Secret Siblings
+3522263328	/home/dgraper/colossus_share0/videos/Documentary/CBC - The Twinning Reaction
+9795762716	/home/dgraper/colossus_share0/videos/Documentary/Dead Malls
+1622218717	/home/dgraper/colossus_share0/videos/Documentary/History of Commodore Computers
+1117196473	/home/dgraper/colossus_share0/videos/Documentary/Interesting Physics Videos
+516485561	/home/dgraper/colossus_share0/videos/Documentary/Interesting videos
+70273018	/home/dgraper/colossus_share0/videos/Documentary/Medical
+21247104775	/home/dgraper/colossus_share0/videos/Documentary/Retail Archaeology
+1704102	/home/dgraper/colossus_share0/videos/Documentary/Television Commercials
+1142241774	/home/dgraper/colossus_share0/videos/Documentary/The Spanish Civil War - Documentary
+3723642929	/home/dgraper/colossus_share0/videos/Documentary/Thrifting Time
+44743683	/home/dgraper/colossus_share0/videos/Documentary/Videogames
+189573326	/home/dgraper/colossus_share0/videos/Documentary/Vladimir Komarov the Lost Cosmonaut
+570542521	/home/dgraper/colossus_share0/videos/Family
+0	/home/dgraper/colossus_share0/videos/How-To
+0	/home/dgraper/colossus_share0/videos/How-To/Office
+33007248	/home/dgraper/colossus_share0/videos/How-To/Office/Spray Mounting Posters
+2709389762	/home/dgraper/colossus_share0/videos/How-To/Perfume
+0	/home/dgraper/colossus_share0/videos/How-To/Rainwater Collection
+68261922	/home/dgraper/colossus_share0/videos/How-To/Rainwater Collection/Rainwater Collection
+0	/home/dgraper/colossus_share0/videos/Non-Computer Tech
+9002240	/home/dgraper/colossus_share0/videos/Non-Computer Tech/Amateur Radio
+61306523	/home/dgraper/colossus_share0/videos/Non-Computer Tech/Konica Minolta Printer
+255625537	/home/dgraper/colossus_share0/videos/Non-Computer Tech/Moog
+187358431	/home/dgraper/colossus_share0/videos/Non-Computer Tech/Software Defined Radio
+28054828499	/home/dgraper/colossus_share0/videos/Perfume

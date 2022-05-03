@@ -1,0 +1,618 @@
+BackupDevice1	/home/dgraper/colossus_share0/videos	0	0
+BackupDevice1	/home/dgraper/colossus_share0/videos/256GB Drive II	583667967	583667967
+BackupDevice1	/home/dgraper/colossus_share0/videos/256GB Drive II/DesignJet 500 Repair Videos	2782046198	3365714165
+BackupDevice1	/home/dgraper/colossus_share0/videos/256GB Drive II/Microcorruption	396636335	3762350500
+BackupDevice1	/home/dgraper/colossus_share0/videos/256GB Drive II/Python TKinter	13068248432	16830598932
+BackupDevice1	/home/dgraper/colossus_share0/videos/256GB Drive II/Typewriter Show	47101027292	63931626224
+BackupDevice1	/home/dgraper/colossus_share0/videos/256GB Drive II/Unsorted	3686221902	67617848126
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive	9525189533	77143037659
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Discs	0	77143037659
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Discs/Hitlers.Children.2011.NTSC.DVD9.Film.Movement.-	0	77143037659
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Discs/Hitlers.Children.2011.NTSC.DVD9.Film.Movement.-/Hitlers.Children.2011	0	77143037659
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Discs/Hitlers.Children.2011.NTSC.DVD9.Film.Movement.-/Hitlers.Children.2011/VIDEO_TS	3040872448	80183910107
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Fastest Patch (x64) process for Win7SP1	540281207	80724191314
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721	0	80724191314
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop	27260424	80751451738
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Adobe Acrobat	657002	80752108740
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Adobe Acrobat/Adobe Acrobat	749978985	81502087725
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Adobe Acrobat/Adobe Acrobat/Transforms	2326528	81504414253
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Adobe Acrobat/Adobe Acrobat/VCRT_x64	1177866	81505592119
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Adobe Acrobat/GB18030	147314	81505739433
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/AHK Scripts	99462	81505838895
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master	1124	81505840019
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01	0	81505840019
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite	626	81505840645
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/blog	3794	81505844439
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/blog/migrations	1364	81505845803
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/blog/migrations/__pycache__	1461	81505847264
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/blog/__pycache__	4832	81505852096
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/blog/static	0	81505852096
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/blog/static/css	1316	81505853412
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/blog/templates	389	81505853801
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/blog/templates/blog	341	81505854142
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/blog/templates/blog/post	707	81505854849
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/mysite	4708	81505859557
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter01/mysite/mysite/__pycache__	3932	81505863489
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter02	0	81505863489
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter02/mysite	626	81505864115
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter02/mysite/blog	7679	81505871794
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter02/mysite/blog/migrations	2959	81505874753
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter02/mysite/blog/static	0	81505874753
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter02/mysite/blog/static/css	1316	81505876069
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter02/mysite/blog/templates	389	81505876458
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter02/mysite/blog/templates/blog	341	81505876799
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter02/mysite/blog/templates/blog/post	2503	81505879302
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter02/mysite/mysite	4900	81505884202
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03	0	81505884202
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03/mysite	626	81505884828
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03/mysite/blog	9396	81505894224
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03/mysite/blog/migrations	2959	81505897183
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03/mysite/blog/static	0	81505897183
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03/mysite/blog/static/css	1316	81505898499
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03/mysite/blog/templates	389	81505898888
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03/mysite/blog/templates/blog	812	81505899700
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03/mysite/blog/templates/blog/post	3504	81505903204
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03/mysite/blog/templatetags	757	81505903961
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter03/mysite/mysite	5261	81505909222
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter04	0	81505909222
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter04/bookmarks	629	81505909851
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter04/bookmarks/account	6692	81505916543
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter04/bookmarks/account/migrations	843	81505917386
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter04/bookmarks/account/static	0	81505917386
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter04/bookmarks/account/static/css	4515	81505921901
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter04/bookmarks/account/templates	1273	81505923174
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter04/bookmarks/account/templates/account	1553	81505924727
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter04/bookmarks/account/templates/registration	3509	81505928236
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter04/bookmarks/bookmarks	5285	81505933521
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05	0	81505933521
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks	629	81505934150
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/account	6692	81505940842
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/account/migrations	843	81505941685
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/account/static	0	81505941685
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/account/static/css	4516	81505946201
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/account/templates	2014	81505948215
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/account/templates/account	2102	81505950317
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/account/templates/registration	3509	81505953826
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/bookmarks	5405	81505959231
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/common	304	81505959535
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/images	6275	81505965810
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/images/migrations	1229	81505967039
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/images/static	0	81505967039
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/images/static/css	1008	81505968047
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/images/static/js	2660	81505970707
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/images/templates	285	81505970992
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/images/templates/images	0	81505970992
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter05/bookmarks/images/templates/images/image	3556	81505974548
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06	0	81505974548
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks	629	81505975177
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/account	10132	81505985309
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/account/migrations	1885	81505987194
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/account/static	0	81505987194
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/account/static/css	4516	81505991710
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/account/templates	2034	81505993744
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/account/templates/account	2263	81505996007
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/account/templates/account/user	2346	81505998353
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/account/templates/registration	3509	81506001862
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/actions	2455	81506004317
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/actions/migrations	1258	81506005575
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/actions/templates	0	81506005575
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/actions/templates/actions	0	81506005575
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/actions/templates/actions/action	1158	81506006733
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/bookmarks	5680	81506012413
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/common	304	81506012717
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/images	7974	81506020691
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/images/migrations	1625	81506022316
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/images/static	0	81506022316
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/images/static/css	1008	81506023324
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/images/static/js	2660	81506025984
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/images/templates	285	81506026269
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/images/templates/images	0	81506026269
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter06/bookmarks/images/templates/images/image	3975	81506030244
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07	0	81506030244
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop	626	81506030870
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/cart	4536	81506035406
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/cart/migrations	0	81506035406
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/cart/templates	0	81506035406
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/cart/templates/cart	1889	81506037295
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/myshop	5011	81506042306
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/orders	4004	81506046310
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/orders/migrations	1795	81506048105
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/orders/templates	0	81506048105
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/orders/templates/orders	0	81506048105
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/orders/templates/orders/order	825	81506048930
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/shop	3562	81506052492
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/shop/migrations	1839	81506054331
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/shop/static	0	81506054331
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/shop/static/css	5134	81506059465
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/shop/static/img	6477	81506065942
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/shop/templates	0	81506065942
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/shop/templates/shop	842	81506066784
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter07/myshop/shop/templates/shop/product	1821	81506068605
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08	0	81506068605
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop	626	81506069231
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/cart	4536	81506073767
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/cart/migrations	0	81506073767
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/cart/templates	0	81506073767
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/cart/templates/cart	1889	81506075656
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/myshop	5489	81506081145
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/orders	6767	81506087912
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/orders/migrations	2185	81506090097
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/orders/templates	0	81506090097
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/orders/templates/admin	0	81506090097
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/orders/templates/admin/orders	0	81506090097
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/orders/templates/admin/orders/order	1893	81506091990
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/orders/templates/orders	0	81506091990
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/orders/templates/orders/order	1990	81506093980
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/payment	3400	81506097380
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/payment/migrations	0	81506097380
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/payment/templates	0	81506097380
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/payment/templates/payment	2733	81506100113
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/shop	3562	81506103675
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/shop/migrations	1841	81506105516
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/shop/static	0	81506105516
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/shop/static/css	5134	81506110650
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/shop/static/img	6477	81506117127
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/shop/templates	0	81506117127
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/shop/templates/shop	842	81506117969
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/shop/templates/shop/product	1821	81506119790
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static	0	81506119790
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin	0	81506119790
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/css	75697	81506195487
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/css/vendor	0	81506195487
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/css/vendor/select2	33895	81506229382
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/fonts	269526	81506498908
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/img	14768	81506513676
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/img/gis	2258	81506515934
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/js	77962	81506593896
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/js/admin	27150	81506621046
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/js/vendor	0	81506621046
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/js/vendor/jquery	369604	81506990650
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/js/vendor/select2	245333	81507235983
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/js/vendor/select2/i18n	58218	81507294201
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/admin/js/vendor/xregexp	192397	81507486598
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/css	5134	81507491732
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter08/myshop/static/img	6477	81507498209
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09	0	81507498209
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop	626	81507498835
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/cart	5784	81507504619
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/cart/migrations	0	81507504619
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/cart/templates	0	81507504619
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/cart/templates/cart	3405	81507508024
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/coupons	2110	81507510134
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/coupons/migrations	843	81507510977
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/locale	0	81507510977
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/locale/en	0	81507510977
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/locale/en/LC_MESSAGES	3361	81507514338
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/locale/es	0	81507514338
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/locale/es/LC_MESSAGES	5271	81507519609
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/myshop	6283	81507525892
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders	7899	81507533791
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/locale	0	81507533791
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/locale/en	0	81507533791
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/locale/en/LC_MESSAGES	2199	81507535990
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/locale/es	0	81507535990
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/locale/es/LC_MESSAGES	2732	81507538722
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/migrations	3020	81507541742
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/templates	0	81507541742
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/templates/admin	0	81507541742
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/templates/admin/orders	0	81507541742
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/templates/admin/orders/order	1893	81507543635
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/templates/orders	0	81507543635
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/orders/templates/orders/order	2536	81507546171
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/payment	3464	81507549635
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/payment/migrations	0	81507549635
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/payment/templates	0	81507549635
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/payment/templates/payment	2733	81507552368
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/shop	6755	81507559123
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/shop/migrations	5222	81507564345
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/shop/static	0	81507564345
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/shop/static/css	5134	81507569479
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/shop/static/img	6477	81507575956
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/shop/templates	0	81507575956
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/shop/templates/shop	1629	81507577585
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/shop/templates/shop/product	2463	81507580048
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static	0	81507580048
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin	0	81507580048
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/css	75697	81507655745
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/css/vendor	0	81507655745
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/css/vendor/select2	33895	81507689640
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/fonts	269526	81507959166
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/img	14768	81507973934
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/img/gis	2258	81507976192
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/js	77962	81508054154
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/js/admin	27150	81508081304
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/js/vendor	0	81508081304
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/js/vendor/jquery	369604	81508450908
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/js/vendor/select2	245333	81508696241
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/js/vendor/select2/i18n	58218	81508754459
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/admin/js/vendor/xregexp	192397	81508946856
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/css	5134	81508951990
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter09/myshop/static/img	6477	81508958467
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10	0	81508958467
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa	625	81508959092
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses	13237	81508972329
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/fixtures	455	81508972784
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/migrations	6894	81508979678
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/static	0	81508979678
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/static/css	4396	81508984074
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/templates	893	81508984967
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/templates/courses	0	81508984967
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/templates/courses/manage	0	81508984967
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/templates/courses/manage/content	552	81508985519
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/templates/courses/manage/course	1753	81508987272
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/templates/courses/manage/module	3859	81508991131
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/templates/registration	876	81508992007
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/courses/templatetags	190	81508992197
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter10/educa/educa	4269	81508996466
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11	0	81508996466
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa	625	81508997091
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses	15611	81509012702
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/fixtures	455	81509013157
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/migrations	7441	81509020598
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/static	0	81509020598
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/static/css	4396	81509024994
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/templates	893	81509025887
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/templates/courses	0	81509025887
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/templates/courses/content	219	81509026106
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/templates/courses/course	2200	81509028306
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/templates/courses/manage	0	81509028306
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/templates/courses/manage/content	552	81509028858
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/templates/courses/manage/course	1753	81509030611
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/templates/courses/manage/module	3859	81509034470
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/templates/registration	876	81509035346
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/courses/templatetags	190	81509035536
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/educa	5248	81509040784
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/students	3520	81509044304
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/students/migrations	0	81509044304
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/students/templates	0	81509044304
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/students/templates/students	0	81509044304
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/students/templates/students/course	1560	81509045864
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter11/educa/students/templates/students/student	362	81509046226
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12	0	81509046226
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/api_examples	672	81509046898
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa	625	81509047523
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses	15611	81509063134
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/api	4123	81509067257
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/fixtures	455	81509067712
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/migrations	7441	81509075153
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/static	0	81509075153
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/static/css	4396	81509079549
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/templates	893	81509080442
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/templates/courses	0	81509080442
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/templates/courses/content	219	81509080661
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/templates/courses/course	2200	81509082861
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/templates/courses/manage	0	81509082861
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/templates/courses/manage/content	552	81509083413
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/templates/courses/manage/course	1753	81509085166
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/templates/courses/manage/module	3859	81509089025
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/templates/registration	876	81509089901
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/courses/templatetags	190	81509090091
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/educa	5473	81509095564
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/students	3520	81509099084
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/students/migrations	0	81509099084
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/students/templates	0	81509099084
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/students/templates/students	0	81509099084
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/students/templates/students/course	1560	81509100644
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter12/educa/students/templates/students/student	362	81509101006
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13	0	81509101006
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa	625	81509101631
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/chat	2607	81509104238
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/chat/migrations	0	81509104238
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/chat/templates	0	81509104238
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/chat/templates/chat	1786	81509106024
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses	15611	81509121635
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/api	4123	81509125758
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/fixtures	455	81509126213
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/migrations	7441	81509133654
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/static	0	81509133654
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/static/css	4396	81509138050
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/templates	893	81509138943
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/templates/courses	0	81509138943
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/templates/courses/content	219	81509139162
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/templates/courses/course	2200	81509141362
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/templates/courses/manage	0	81509141362
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/templates/courses/manage/content	552	81509141914
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/templates/courses/manage/course	1753	81509143667
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/templates/courses/manage/module	3859	81509147526
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/templates/registration	876	81509148402
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/courses/templatetags	190	81509148592
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/educa	6098	81509154690
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/students	3520	81509158210
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/students/migrations	0	81509158210
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/students/templates	0	81509158210
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/students/templates/students	0	81509158210
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/students/templates/students/course	1676	81509159886
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter13/educa/students/templates/students/student	362	81509160248
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14	0	81509160248
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa	625	81509160873
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/chat	2607	81509163480
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/chat/migrations	0	81509163480
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/chat/templates	0	81509163480
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/chat/templates/chat	1787	81509165267
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/config	1388	81509166655
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses	16529	81509183184
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/api	4123	81509187307
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/fixtures	455	81509187762
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/migrations	7441	81509195203
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/static	0	81509195203
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/static/css	4396	81509199599
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/templates	893	81509200492
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/templates/courses	0	81509200492
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/templates/courses/content	219	81509200711
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/templates/courses/course	2200	81509202911
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/templates/courses/manage	0	81509202911
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/templates/courses/manage/content	552	81509203463
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/templates/courses/manage/course	1753	81509205216
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/templates/courses/manage/module	3859	81509209075
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/templates/registration	876	81509209951
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/courses/templatetags	190	81509210141
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/educa	1840	81509211981
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/educa/settings	4848	81509216829
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/logs	0	81509216829
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/ssl	2790	81509219619
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static	771	81509220390
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin	0	81509220390
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/css	75697	81509296087
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/css/vendor	0	81509296087
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/css/vendor/select2	33895	81509329982
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/fonts	269526	81509599508
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/img	14768	81509614276
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/img/gis	2258	81509616534
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/js	77962	81509694496
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/js/admin	27150	81509721646
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/js/vendor	0	81509721646
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/js/vendor/jquery	369604	81510091250
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/js/vendor/select2	245333	81510336583
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/js/vendor/select2/i18n	58218	81510394801
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/admin/js/vendor/xregexp	192397	81510587198
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/css	4396	81510591594
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/rest_framework	0	81510591594
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/css	171859	81510763453
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/docs	0	81510763453
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/docs/css	9136	81510772589
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/docs/img	6888	81510779477
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/docs/js	314003	81511093480
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/fonts	581158	81511674638
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/img	22997	81511697635
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/static/rest_framework/js	305641	81512003276
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/students	3520	81512006796
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/students/management	0	81512006796
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/students/management/commands	1391	81512008187
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/students/migrations	0	81512008187
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/students/templates	0	81512008187
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/students/templates/students	0	81512008187
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/students/templates/students/course	1676	81512009863
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Django-3-by-Example-master/Chapter14/educa/students/templates/students/student	362	81512010225
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data	0	81512010225
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default	8371722	81520381947
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/bookmarkbackups	749861	81521131808
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/browser-extension-data	0	81521131808
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/browser-extension-data/fxmonitor@mozilla.org	0	81521131808
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/browser-extension-data/uBlock0@raymondhill.net	26061	81521157869
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/crashes	66	81521157935
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/crashes/events	0	81521157935
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/datareporting	214	81521158149
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/datareporting/archived	0	81521158149
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/datareporting/archived/2019-03	546441	81521704590
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/datareporting/archived/2019-04	561752	81522266342
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/extensions	2582699	81524849041
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/features	0	81524849041
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/features/{a2c8f515-2b68-4aed-bceb-c9eec82820af}	49869	81524898910
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/gmp	0	81524898910
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/gmp-gmpopenh264	0	81524898910
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/gmp-gmpopenh264/1.7.1	972868	81525871778
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/gmp-widevinecdm	0	81525871778
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/gmp-widevinecdm/4.10.1146.0	6334324	81532206102
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/gmp/WINNT_x86_64-msvc	0	81532206102
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/gmp/WINNT_x86_64-msvc/gmp-widevinecdm	0	81532206102
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/gmp/WINNT_x86_64-msvc/gmp-widevinecdm/id	0	81532206102
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/gmp/WINNT_x86_64-msvc/gmp-widevinecdm/id/4010886666	82	81532206184
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Graper9020 Computer 100721/Desktop/Old Firefox Data/hzcl5nb7.default/minidumps	0	81532206184
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Interesting Physics Videos	1117196473	82649402657
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Slate Training	0	82649402657
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Slate Training/01 - Slate	0	82649402657
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Slate Training/01 - Slate/Documents	3573380	82652976037
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Slate Training/01 - Slate/Videos	54859346	82707835383
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Slate Training/02 - PeopleSoft	899912	82708735295
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Slate Training/03 - Graduate Admissions Materials	1920939	82710656234
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Slate Training/04 - Nolij	1477865	82712134099
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Slate Training/05 - Policies and Procedures	179719	82712313818
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Training materials	894464485	83606778303
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Unsorted Videos	7070537625	90677315928
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Urban Archaeology	7440494286	98117810214
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Using Process Monitor	323581324	98441391538
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos	0	98441391538
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Animation	0	98441391538
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Animation/Bugs Bunny Shorts	19045886	98460437424
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Classic Commercials	0	98460437424
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Classic Commercials/Mayhem Videos	131825774	98592263198
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Classic Commercials/Spectrum Videos	232197265	98824460463
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Classic Commercials/Volkswagen	1704102	98826164565
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer	0	98826164565
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/API	502505821	99328670386
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Backups	62571701	99391242087
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Computer Science	0	99391242087
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Computer Science/MIT - Missing CS Semester	0	99391242087
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Computer Science/MIT - Missing CS Semester/MIT Missing CS Semester (2019)	4053771817	103445013904
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Computer Science/MIT - Missing CS Semester/MIT Missing CS Semester (2020)	2988870002	106433883906
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Django	0	106433883906
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Django/Django Authentication	369426926	106803310832
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Django/Django Bootcamp	4471849911	111275160743
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Django/Try Django	1238550279	112513711022
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Django/Various Django Videos	4995550727	117509261749
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Git	54744053	117564005802
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking	0	117564005802
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/Certified Ethical Hacker	595569169	118159574971
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/Hacker Skills	233678552	118393253523
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/Hacker Skills OSINT	0	118393253523
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/Linux for Hackers	481797965	118875051488
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/Live Overflow	0	118875051488
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/Live Overflow/LiveOverflow	2142557159	121017608647
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/Live Overflow/Live Overflow - Short Topics	20554908	121038163555
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/PwnFunction	0	121038163555
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/PwnFunction/Binary Exploitation	39396655	121077560210
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/Regex	16301576	121093861786
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/Reversing	31428942	121125290728
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Hacking/Viruses	105297467	121230588195
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/HP T620 Plus Thin Client	1092711586	122323299781
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Linux	30623558	122353923339
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Linux/systemd	202200938	122556124277
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/MS Access	215440565	122771564842
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/MS Outlook	19461850	122791026692
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Networking	0	122791026692
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Networking/Home Networking	299378640	123090405332
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Networking/Home Networking/Segmenting the Home Network	42711765	123133117097
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Networking/PFSense	0	123133117097
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Networking/PFSense/Full Course in one Video	637143329	123770260426
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Networking/Wolfgang on VPN	55444841	123825705267
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/NGINX	52603400	123878308667
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/PFSense	57035472	123935344139
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Privacy	94702521	124030046660
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Python	258427491	124288474151
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Raspberry Pi	174263114	124462737265
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Raspberry Pi/Raspberry Pi and Networking	4695494857	129158232122
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Raspberry Pi/Raspberry Pi - Null Byte	854954980	130013187102
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Computer/Reportlab PDF Python	2975494736	132988681838
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Documentary	0	132988681838
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Documentary/Dead Malls	2052587465	135041269303
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Documentary/Expedition Log Videos	52786093083	187827362386
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Documentary/History of Commodore Computers	1622218717	189449581103
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Documentary/Oversimplified History Series	2052739321	191502320424
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Documentary/Sal Expedition Videos	71091517289	262593837713
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Documentary/Soviet Space Station	23805946	262617643659
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Documentary/Ways of Seeing - John Berger (1972)	449580558	263067224217
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Instructional	0	263067224217
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Instructional/Konica Minolta Printer	61306523	263128530740
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Instructional/UAlbany	29376696	263157907436
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Instructional/Video Capture	214938971	263372846407
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music	0	263372846407
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Bach	6309732989	269682579396
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Bach/Netherlands Bach Society	0	269682579396
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Bach/Netherlands Bach Society/Cantatas	0	269682579396
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Bach/Netherlands Bach Society/Cantatas/Broken	799268821	270481848217
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Bach/Netherlands Bach Society/Cantatas/Works	12146479058	282628327275
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Bach/Netherlands Bach Society/Musikalisches Opfer	131393907	282759721182
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Bach/Netherlands Bach Society/Specials	0	282759721182
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Beastie Boys	18819099	282778540281
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Beethoven	605150639	283383690920
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Copland	993300238	284376991158
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Devo	817787923	285194779081
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Doc Boggs	12897820	285207676901
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Elton John	57120412	285264797313
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Emerson Lake and Palmer	35359554	285300156867
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Frank Zappa	28379612	285328536479
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Gentle Giant	383563672	285712100151
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Hindemith	1075026476	286787126627
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Isham Jones	132319235	286919445862
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Isham Jones/Isham Jones	391272464	287310718326
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Led Zeppelin	141506955	287452225281
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Mozart	1383233648	288835458929
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Nimrod Workman	4696758	288840155687
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Old Leatherstocking	127849526	288968005213
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Ozzy Osbourne	74417272	289042422485
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Pink Floyd	148702094	289191124579
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Portsmouth Sinfonia	94733252	289285857831
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Puccini	8700710	289294558541
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Ralph Stanley	10669215	289305227756
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Rammstein	109728763	289414956519
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Renaissance	12260861	289427217380
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Richard Harris	45380124	289472597504
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Russian	23457644	289496055148
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Saint-Saens	9728060	289505783208
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Scarlatti	252451607	289758234815
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Storm Large	51969974	289810204789
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Weezer	52074856	289862279645
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Weezer/Weezer - The Teal Album	965848907	290828128552
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Wendy Carlos	4610289	290832738841
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Music/Yes	1165073796	291997812637
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Non-Computer Technology	0	291997812637
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Non-Computer Technology/Moog	255603521	292253416158
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Non-Computer Technology/Software Defined Radio	187358431	292440774589
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Non-Computer Technology/Water Filter	83730930	292524505519
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/NYS Senate	4976955200	297501460719
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Perfumes	6196001443	303697462162
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Perfumes/2020 Experimental Scent Summit	4655000517	308352462679
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/PFSense	241354743	308593817422
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Short Subjects	0	308593817422
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Short Subjects/The Good Fight	9494419	308603311841
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Videos/Short Subjects/V for Vendetta Clips	46956224	308650268065
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/VPN and SSH	573593304	309223861369
+BackupDevice1	/home/dgraper/colossus_share0/videos/265GB Drive/Wireshark	809267255	310033128624
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer	0	310033128624
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/APIs	502505821	310535634445
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/AutoHotkey	0	310535634445
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/AutoHotkey/Autohotkey	952878927	311488513372
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/AutoHotkey/AutoHotkey Short Talks	3622436690	315110950062
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/AutoHotkey/Automate Windows programs with AutoHotkey	432008101	315542958163
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/C#	53890155	315596848318
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Computer Science	0	315596848318
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Computer Science/MIT - Missing Semester 2019	4682005888	320278854206
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Computer Science/MIT - The Missing Semester 2020	3661459931	323940314137
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Misc	1685814556	325626128693
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials	18432	325626147125
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django	851815528	326477962653
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django and Apache	27430088	326505392741
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django Authentication	369426926	326874819667
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django Bootcamp	4471849911	331346669578
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django - Coding for Entrepreneurs	445610006	331792279584
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django - Corey	951205913	332743485497
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django - Corey Schaefer	951205913	333694691410
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django Crash Course - Traversy Media	130793996	333825485406
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django - Dennis Ivy	1241785394	335067270800
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django Miscellaneous	7640009911	342707280711
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django NGINX and UWSGI - Tony Teaches Tech	363111595	343070392306
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django on Raspberry Pi	2199084999	345269477305
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django - Pretty Printed	2402032616	347671509921
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django - Red Eyed Coder Club	507540580	348179050501
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django/Try Django	1238550279	349417600780
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django Tutorial - Full-Featured Web App	645250426	350062851206
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django Tutorials	4303356971	354366208177
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django - Webserver Considerations	82787210	354448995387
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Django - Yogi Coder	584774083	355033769470
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Django Tutorials/Try DJANGO	649435751	355683205221
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Drupal	186756039	355869961260
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Git	359812669	356229773929
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Hacking and Reversing	0	356229773929
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Hacking and Reversing/Miscellaneous	529786724	356759560653
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Hacking and Reversing/Reversing	61395142	356820955795
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Hacking and Reversing/Wireshark	809267255	357630223050
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Intro Intel x86	13629398594	371259621644
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Linux	1209639269	372469260913
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/NGINX	17927825	372487188738
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/PostgreSQL	57829992	372545018730
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Python	297805911	372842824641
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Raspberry Pi	91484385	372934309026
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Raspberry Pi/Raspberry Pi Camera	41140264	372975449290
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Raspberry Pi/Raspberry Pi - Null Byte	854954980	373830404270
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Raspberry Pi/Raspberry Pi VPN	95566655	373925970925
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Raspberry Pi/VPN and SSH	573593304	374499564229
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Reportlab	2975494736	377475058965
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/Using Process Monitor	0	377475058965
+BackupDevice1	/home/dgraper/colossus_share0/videos/Computer/VIM	204244968	377679303933
+BackupDevice1	/home/dgraper/colossus_share0/videos/Documentary	1103668060	378782971993
+BackupDevice1	/home/dgraper/colossus_share0/videos/Documentary/20-20 2018.03.09 Secret Siblings	375875957	379158847950
+BackupDevice1	/home/dgraper/colossus_share0/videos/Documentary/CBC - The Twinning Reaction	3522263328	382681111278
+BackupDevice1	/home/dgraper/colossus_share0/videos/Documentary/Dead Malls	9795762716	392476873994
+BackupDevice1	/home/dgraper/colossus_share0/videos/Documentary/History of Commodore Computers	1622218717	394099092711
+BackupDevice1	/home/dgraper/colossus_share0/videos/Documentary/Interesting Physics Videos	1117196473	395216289184
+BackupDevice1	/home/dgraper/colossus_share0/videos/Documentary/Interesting videos	516485561	395732774745
+BackupDevice1	/home/dgraper/colossus_share0/videos/Documentary/Medical	70273018	395803047763
+BackupDevice1	/home/dgraper/colossus_share0/videos/Documentary/Retail Archaeology	21247104775	417050152538
+BackupDevice1	/home/dgraper/colossus_share0/videos/Documentary/Television Commercials	1704102	417051856640
+BackupDevice1	/home/dgraper/colossus_share0/videos/Documentary/The Spanish Civil War - Documentary	1142241774	418194098414
+BackupDevice1	/home/dgraper/colossus_share0/videos/Documentary/Thrifting Time	3723642929	421917741343
+BackupDevice1	/home/dgraper/colossus_share0/videos/Documentary/Videogames	44743683	421962485026
+BackupDevice1	/home/dgraper/colossus_share0/videos/Documentary/Vladimir Komarov the Lost Cosmonaut	189573326	422152058352
+BackupDevice1	/home/dgraper/colossus_share0/videos/Family	570542521	422722600873
+BackupDevice1	/home/dgraper/colossus_share0/videos/How-To	0	422722600873
+BackupDevice1	/home/dgraper/colossus_share0/videos/How-To/Office	0	422722600873
+BackupDevice1	/home/dgraper/colossus_share0/videos/How-To/Office/Spray Mounting Posters	33007248	422755608121
+BackupDevice1	/home/dgraper/colossus_share0/videos/How-To/Perfume	2709389762	425464997883
+BackupDevice1	/home/dgraper/colossus_share0/videos/How-To/Rainwater Collection	0	425464997883
+BackupDevice1	/home/dgraper/colossus_share0/videos/How-To/Rainwater Collection/Rainwater Collection	68261922	425533259805
+BackupDevice1	/home/dgraper/colossus_share0/videos/Non-Computer Tech	0	425533259805
+BackupDevice1	/home/dgraper/colossus_share0/videos/Non-Computer Tech/Amateur Radio	9002240	425542262045
+BackupDevice1	/home/dgraper/colossus_share0/videos/Non-Computer Tech/Konica Minolta Printer	61306523	425603568568
+BackupDevice1	/home/dgraper/colossus_share0/videos/Non-Computer Tech/Moog	255625537	425859194105
+BackupDevice1	/home/dgraper/colossus_share0/videos/Non-Computer Tech/Software Defined Radio	187358431	426046552536
+BackupDevice1	/home/dgraper/colossus_share0/videos/Perfume	28054828499	454101381035
